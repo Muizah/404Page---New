@@ -47,6 +47,7 @@ h4{
     font-weight: 400;
     font-size: 27px;
     word-spacing: 3px;
+    width: 85%;
 }
 
 button{
@@ -90,11 +91,18 @@ footer{
     width: 100%;
 } 
 
+h2{
+    color: #333333;
+    font-weight: 1000;
+    font-size: 45px;
+}
+
 h4{
 
     font-weight: 400;
     font-size: 20px;
     padding: 0px 10px;
+    width: 100%;
 }
 
 button{
